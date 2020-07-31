@@ -1,4 +1,4 @@
-### Hi there 👋
+# Howdy!
 
 <!--
 **akashsonowal/akashsonowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Data Science Enthusiast and a seasonal Python Developer. I am currently pursuing Masters in Industrial and Management Engineering at IIT Kanpur, India.
+
+I am working and exploring on ideas to build AI systems or applications for Industrial Operations to optimise them. And I am very passionate to collaborate and work with people who have same domain interest. 
+
+Apart from my professional interest, I am also volunteerialy leading in a local open youth community in Assam, India to help eradicate problems of the local people with Technology and various other ways.
+
+If you are interested to work with me, please visit [my website](https://www.linkedin.com/in/akashsonowal/) to contact me.
+
+
+
