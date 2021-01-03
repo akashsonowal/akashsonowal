@@ -20,7 +20,7 @@ I am working and exploring on ideas to build AI systems or applications for Indu
 
 Apart from my professional interest, I am also volunteerialy leading in a local open youth community in Assam, India to help eradicate problems of the local people with Technology and various other ways.
 
-If you are interested to work with me, please visit [my website](https://www.akashsonowal.github.io/) to contact me.
+If you are interested to work with me, please visit [my website](https://akashsonowal.github.io) to contact me.
 
 
 
