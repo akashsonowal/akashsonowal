@@ -18,7 +18,7 @@ I am a Machine Learning Engineer. I am currently pursuing Masters in Industrial 
 
 I am working and exploring on ideas to build AI systems or applications for Machine Learning in Finance. And I am very passionate to collaborate and work with people who share the same passion of building AI systems for good. 
 
-If you are interested to work with me, please visit [my website](https://akashsonowal.github.io) to contact me.
+If you are interested to work with me, please visit [my website](https://akashsonowal.pythonanywhere.com/) to contact me.
 
 
 
