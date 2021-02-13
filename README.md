@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Machine Learning Engineer. I am currently pursuing Masters in Industrial and Management Engineering at IIT Kanpur, India.
+I am a Machine Learning Engineer aspirant. I am currently pursuing Masters in Industrial and Management Engineering at IIT Kanpur, India.
 
 I am working and exploring on ideas to build AI systems or applications for Machine Learning in Finance. And I am very passionate to collaborate and work with people who share the same passion of building AI systems for good. 
 
