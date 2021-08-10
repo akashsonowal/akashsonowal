@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Machine Learning Engineer aspirant. I am currently pursuing Masters in Industrial and Management Engineering at IIT Kanpur, India.
+Firstly, big thank you :pray: for visiting my profile. 
 
-I am working and exploring on ideas to build AI systems or applications for Machine Learning in Finance. And I am very passionate to collaborate and work with people who share the same passion of building AI systems for good. 
+I am an analyst, software engineer by practice. I am currently pursuing my Masters in Industrial and Management Engineering at IIT Kanpur, India.
 
-If you are interested to work with me, please visit [my website](https://akashsonowal.pythonanywhere.com/) to contact me.
+I am interested in problem solving and exploring new challenging topics. I am passionate about coding :technologist:, story telling. I am currently working with problems in data science, machine learning and finance. I always love to collaborate and work with people who share the same passion of building technology and business for good. 
+
+Say Hi :wave:, at [LinkedIn](https://www.linkedin.com/in/akashsonowal/).
 
 
 
