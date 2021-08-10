@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Big thank you :pray: for visiting my profile. 
+Namaste :pray:! Welcome to my profile.  
 
 I am an analyst, software engineer by practice. I am currently pursuing my Masters in Industrial and Management Engineering at IIT Kanpur, India.
 
