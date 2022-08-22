@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 :pray: Namaste! Welcome to my profile.  
 
-I am an analyst, aspiring software engineer by practice. I am currently pursuing my Masters in Industrial and Management Engineering at IIT Kanpur, India.
+I am currently working as a Lead Data Scientist at Mphasis Limited. I am completed my Masters in Industrial and Management Engineering from IIT Kanpur, India.
 
 I am interested in problem solving and exploring new challenging areas. I am passionate about coding :technologist:, story telling. I am currently working with problems in data science, machine learning and finance. I always love to collaborate and work with people who share the same passion of building technology and business for good. 
 
