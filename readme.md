@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:pray: Namaste! Welcome to my profile.  
+:pray: Namaste! Welcome to my profile.
+
+C / C ++ / Java / Go
 
 I am currently working as a Lead Data Scientist at Mphasis Limited. I completed my Masters in Industrial and Management Engineering from IIT Kanpur, India.
 
