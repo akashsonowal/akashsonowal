@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 :pray: Namaste! Welcome to my profile.
 
-C / C ++ / Java / Python / Go
-
 I am currently working as a Lead Data Scientist at Mphasis Limited. I completed my Masters in Industrial and Management Engineering from IIT Kanpur, India.
 
 Say Hi :wave:, at [LinkedIn](https://www.linkedin.com/in/akashsonowal/).
