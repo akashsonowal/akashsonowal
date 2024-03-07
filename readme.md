@@ -1,20 +1,6 @@
 <h1 align="center">Greetings! 👋 I'm Akash Sonowal</h1>
 <!-- <h3 align="center">🚀 Machine Learning - Software Engineer at <a href="https://lightning.ai/">Lightning AI</a> | 🧠 Building Intelligent Softwares with Machine Learning</h3> -->
 
-# 🌟 About Me:
-
-# 🧡 Creator of [GradsFlow](https://gradsflow.com) - Empowering zero-code machine learning training and deployment 🚀
-
-🎉 Architect behind Chitra, a versatile library for end-to-end Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
-
-👨‍💻 I'm deeply passionate about sharing insights on ML/AI and Programming through my blogs at https://aniketmaurya.com
-
-💬 Feel free to inquire about Large Language Models (LLMs), PyTorch Lightning, Computer Vision (including GANs, Object Detection, Face Recognition), and leveraging Text and Image Documents for information extraction (NLP + CV)
-
-📫 You can get in touch with me via email at aniketmaurya@outlook.com
-
-⚡ Fun fact: I have a preference for chai over coffee.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmaurya)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aniketmaurya)
@@ -32,7 +18,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aniketmaurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniketmaurya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashsonowal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmaurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
