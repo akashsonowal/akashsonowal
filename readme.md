@@ -3,7 +3,7 @@
 
 # 🌟 About Me:
 
-🧡 Creator of [GradsFlow](https://gradsflow.com) - Empowering zero-code machine learning training and deployment 🚀
+# 🧡 Creator of [GradsFlow](https://gradsflow.com) - Empowering zero-code machine learning training and deployment 🚀
 
 🎉 Architect behind Chitra, a versatile library for end-to-end Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
 
@@ -58,24 +58,3 @@
 [![Aniket Maurya profile views](https://u8views.com/api/v1/github/profiles/21018714/views/day-week-month-total-count.svg)](https://u8views.com/github/aniketmaurya) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# Howdy!
-
-<!--**akashsonowal/akashsonowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-:pray: Namaste! Welcome to my profile.
-
-I am currently working as a Lead Data Scientist at Mphasis Limited. I completed my Masters in Industrial and Management Engineering from IIT Kanpur, India.
-
-Say Hi :wave:, at [LinkedIn](https://www.linkedin.com/in/akashsonowal/).
